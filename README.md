@@ -21,14 +21,37 @@ Wellington, NZ Based. Building practical web apps with React, TypeScript, Expres
 </p>
 
 ## Featured Projects
-- **[The Home Library](https://the-home-library.vercel.app)** · [GitHub](https://github.com/eden-jermendi/TheHomeLibrary)
-  Community book-lending app built with React, TypeScript, Express, Supabase, Google Books API, and Vercel.
 
-- **[Coursework Tracker](https://coursework-tracker.vercel.app/)** · [GitHub](https://github.com/eden-jermendi/coursework-tracker)  — Full-stack learning/project tracker with authentication, database persistence, and deployment focus.  
-  `React` `Express` `SQL` `Knex`
+### 📚 The Home Library
 
-- **[Portfolio Website](https://edenjermendi.com/)** · [GitHub](https://github.com/eden-jermendi/portfolio) — Personal portfolio focused on accessibility, clean UI, responsive design, and reduced-motion support.  
-  `React` `TypeScript` `Tailwind`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-home-library.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eden-jermendi/TheHomeLibrary)
+
+Community book-lending app built with React, TypeScript, Express, Supabase, Google Books API, and Vercel.
+
+`React` `TypeScript` `Express` `Supabase` `Postgres`
+
+---
+
+### 📖 Coursework Tracker
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://coursework-tracker.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eden-jermendi/coursework-tracker)
+
+Full-stack learning/project tracker with authentication, database persistence, and deployment focus.
+
+`React` `Express` `SQL` `Knex`
+
+---
+
+### 🌸 Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edenjermendi.com/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eden-jermendi/portfolio)
+
+Personal portfolio focused on accessibility, clean UI, responsive design, and reduced-motion support.
+
+`React` `TypeScript` `Tailwind`
 
 ## Stack & Tools
 
