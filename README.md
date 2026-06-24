@@ -27,7 +27,7 @@ Wellington, NZ Based. Building practical web apps with React, TypeScript, Expres
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-home-library.vercel.app)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eden-jermendi/TheHomeLibrary)
 
-Community book-lending app built with React, TypeScript, Express, Supabase, Google Books API, and Vercel.
+Community-focused book-lending platform that helps readers discover, lend, and borrow books locally while tracking active loans and personal libraries. Built with React, TypeScript, Express, Supabase, Google Books API, and Vercel.
 
 `React` `TypeScript` `Express` `Supabase` `Postgres`
 
