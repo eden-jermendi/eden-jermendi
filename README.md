@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eden 👋</h1>
+<h1 align="center">Kia ora, I'm Eden</h1>
 
 <h3 align="center">
 Full-stack developer · Backend-curious · Accessibility-oriented
