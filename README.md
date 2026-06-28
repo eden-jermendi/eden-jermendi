@@ -5,7 +5,7 @@ Full-stack developer · Backend/Systems-oriented · Accessibility-minded
 </h3>
 
 <p align="center">
-Wellington, NZ Based. Building practical web apps with React, TypeScript, Express, SQL, and Supabase.
+Wellington, NZ Based. Building practical, secure and accesible web apps with React, TypeScript, Express, SQL, and Supabase.
 </p>
 
 <p align="center">
