@@ -1,7 +1,7 @@
 <h1 align="center">Kia ora, I'm Eden</h1>
 
 <h3 align="center">
-Full-stack developer · Backend/Systems-oriented · Accessibility-oriented
+Full-stack developer · Backend/Systems-oriented · Accessibility-minded
 </h3>
 
 <p align="center">
